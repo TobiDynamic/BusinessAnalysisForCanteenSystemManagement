@@ -1,7 +1,5 @@
 <h1>Business Analysis Project For Unilever Canteen Management System</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Unilever’s Headquarters is seeking to upgrade its lunchtime process for its 1500 employees working in a building with 12 floors. Currently, it has 2 canteens with a 300 seating capacity, catering to its employees during their 1-hour lunch break. Management seeks to upgrade this process, improve general employee performance, and reduce costs generated from wasted time and unwanted food. 
 
@@ -18,10 +16,7 @@ We propose the development and implementation of a new Canteen Ordering and Mana
 - <b>JIRA - User Stories and Tracking</b>
 - <b>Cost Analysis and Time Forcasting</b>
 - <b>One Drive (Personal), Confluence (Team)</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 11</b> (21H2)
+- <b>Confluence</b>
 
 <h2>Project walk-through:</h2>
 
@@ -47,6 +42,38 @@ Options Considered (Other Problem Resolution Suggestions):  <br/>
 <br />
 Mini Cost Analsis Overview:  <br/>
 <img src="https://i.imgur.com/GvufRlL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<br />
+<br />
+ROI and Proposed Timeframe :  <br/>
+<img src="https://i.imgur.com/ZPfirGG.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<br />
+<br />
+Possible Risk and Proposed Mitigants:  <br/>
+<img src="https://i.imgur.com/QPaagVO.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<br />
+<br />
+Main Features to be Developed in New System:  <br/>
+<img src="https://i.imgur.com/nXqef8p.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<br />
+<br />
+TO-BE Process:  <br/>
+<img src="https://i.imgur.com/LkAQClR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<br />
+<br />
+TO-BE Requirements translated into User Stories:  <br/>
+<img src="https://i.imgur.com/UBu2Tv8.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<br />
+<br />
+JIRA Board presentation:  <br/>
+<img src="https://i.imgur.com/MFl40SZ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<br />
+ <br />
+Sprint Task Progression:  <br/>
+<img src="https://i.imgur.com/c0MwSsp.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<br />
+<br />
+Confluence Snapshot:  <br/>
+<img src="https://i.imgur.com/yLgot3e.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 <br />
 
 <!--
